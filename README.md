@@ -1,7 +1,7 @@
 # NYC Taxi Fare Prediction using Artificial Neural Networks (ANN) with GPU Acceleration
 
-# Name: Joel John Jobinse
-# Reg No: 212223240062
+## Name: Joel John Jobinse
+## Reg No: 212223240062
 
 ## Project Overview
 
