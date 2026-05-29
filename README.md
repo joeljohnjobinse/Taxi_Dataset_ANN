@@ -1,5 +1,8 @@
 # NYC Taxi Fare Prediction using Artificial Neural Networks (ANN) with GPU Acceleration
 
+# Name: Joel John Jobinse
+# Reg No: 212223240062
+
 ## Project Overview
 
 This project develops a regression-based Artificial Neural Network (ANN) using PyTorch to predict taxi fare amounts from the NYC Taxi Fares dataset. The model utilizes trip-related information such as pickup and dropoff locations, passenger count, fare class, and time-based features extracted from the pickup timestamp.
